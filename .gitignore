@@ -18,3 +18,4 @@ Backup/
 *.pyperf
 .tox
 .vscode/
+.venv
